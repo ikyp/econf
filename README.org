@@ -1,0 +1,7 @@
+#+TITLE: *EConf*
+#+AUTHOR: ikyp
+#+DATE: 2016-12-16 08:00 pm
+
+* Intro
+  
+  My Emacs config
